@@ -2,6 +2,7 @@
 Tasty Food: Delicious Flavors, Memorable Meals.
 
 ## View Live Site
+https://jr0-7.github.io/Tasty-Food/
 
 ### Responsive Restaurant Website
 
